@@ -10,6 +10,14 @@
   PHP API for Firebase Cloud Messaging from Google.
   
 - The place for your next great project!
+
+## Vue.js
+
+- **[vue-cli-plugin-gh-pages-auto-deploy](https://github.com/Rolanddoda/vue-cli-plugin-gh-pages-auto-deploy)** by [Roland Doda](https://github.com/Rolanddoda)<br>
+  This plugin automates Github Pages deployment by using Github Actions.
+
+- **[quasar-ext-gh-pages-auto-deploy](https://github.com/Rolanddoda/quasar-ext-gh-pages-auto-deploy)** by [Roland Doda](https://github.com/Rolanddoda)<br>
+  This extension makes deployment to github pages really easy. After you have added it in your project, everything is ready for you without doing anything else. Every time you     push on master branch a deployment begins using github actions.
   
 ## But why?
 
