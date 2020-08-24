@@ -10,7 +10,13 @@
   PHP API for Firebase Cloud Messaging from Google.
   
 - The place for your next great project!
-  
+
+## .NET
+- **[Albanian Early Bound](https://github.com/albanian-xrm/early-bound)** by [Betim Beja](https://github.com/betimbeja)<br>
+  A tool for XrmToolBox to generate Early-Bound entities for Microsoft Dynamics
+- **[Xrm Entity Serializer](https://github.com/albanian-xrm/Xrm-Entity-Serializer)** by [Betim Beja](https://github.com/betimbeja)<br>
+  A helper library to serialize and deserialize Microsoft Dynamics Entities using Newtonsoft.Json 
+
 ## But why?
 
 A lot of developers in Albania do not know about these projects and the fact that their authors are also Albanian programmers. It warms your heart when you understand that a lot of projects are made by Albanian developers.
