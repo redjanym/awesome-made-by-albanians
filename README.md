@@ -28,8 +28,15 @@
 - **[Albanian Early Bound](https://github.com/albanian-xrm/early-bound)** by [Betim Beja](https://github.com/betimbeja)<br>
   A tool for XrmToolBox to generate Early-Bound entities for Microsoft Dynamics
   
+  [![AlbanianXrm.EarlyBound](https://buildstats.info/nuget/AlbanianXrm.EarlyBound)](https://www.nuget.org/packages/AlbanianXrm.EarlyBound)
+  
 - **[Xrm Entity Serializer](https://github.com/albanian-xrm/Xrm-Entity-Serializer)** by [Betim Beja](https://github.com/betimbeja)<br>
   A helper library to serialize and deserialize Microsoft Dynamics Entities using Newtonsoft.Json 
+  
+  [![XrmEntitySerializer.9](https://buildstats.info/nuget/xrmentityserializer.9)](https://www.nuget.org/packages/XrmEntitySerializer.9)
+  [![XrmEntitySerializer.8](https://buildstats.info/nuget/xrmentityserializer.8)](https://www.nuget.org/packages/XrmEntitySerializer.8)
+  [![XrmEntitySerializer.7](https://buildstats.info/nuget/xrmentityserializer.7)](https://www.nuget.org/packages/XrmEntitySerializer.7)
+  [![XrmEntitySerializer.6](https://buildstats.info/nuget/xrmentityserializer.6)](https://www.nuget.org/packages/XrmEntitySerializer.6)
 
 ## But why?
 
