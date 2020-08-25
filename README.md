@@ -2,14 +2,19 @@
 
 > Curating the best projects that were made and mainly contributed by Albanian developers
 
+## Android
+- **[secure-storage-android](https://github.com/adorsys/secure-storage-android)** by [Drilon Reçica](https://github.com/drilonrecica)<br>
+  Library for Storing Credentials Securely on Android Devices.
+
+- **[sms-parser-android](https://github.com/adorsys/sms-parser-android)** by [Drilon Reçica](https://github.com/drilonrecica)<br>
+  Library for Receiving and Parsing SMS Messages on Android Devices.
+
 ## PHP
 - **[FCMBundle](https://github.com/redjanym/FCMBundle)** by [Redjan Ymeraj](https://github.com/redjanym)<br>
   A Bundle for Symfony projects to send notifications in mobile devices through Firebase Cloud Messaging API.
 
 - **[PHP Firebase Cloud Messaging](https://github.com/redjanym/php-firebase-cloud-messaging)** by [Redjan Ymeraj](https://github.com/redjanym)<br>
   PHP API for Firebase Cloud Messaging from Google.
-  
-- The place for your next great project!
 
 ## Vue.js
 
@@ -18,7 +23,14 @@
 
 - **[quasar-ext-gh-pages-auto-deploy](https://github.com/Rolanddoda/quasar-ext-gh-pages-auto-deploy)** by [Roland Doda](https://github.com/Rolanddoda)<br>
   This extension makes deployment to github pages really easy. After you have added it in your project, everything is ready for you without doing anything else. Every time you     push on master branch a deployment begins using github actions.
+
+## .NET
+- **[Albanian Early Bound](https://github.com/albanian-xrm/early-bound)** by [Betim Beja](https://github.com/betimbeja)<br>
+  A tool for XrmToolBox to generate Early-Bound entities for Microsoft Dynamics
   
+- **[Xrm Entity Serializer](https://github.com/albanian-xrm/Xrm-Entity-Serializer)** by [Betim Beja](https://github.com/betimbeja)<br>
+  A helper library to serialize and deserialize Microsoft Dynamics Entities using Newtonsoft.Json 
+
 ## But why?
 
 A lot of developers in Albania do not know about these projects and the fact that their authors are also Albanian programmers. It warms your heart when you understand that a lot of projects are made by Albanian developers.
