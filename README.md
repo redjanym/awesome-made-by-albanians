@@ -9,6 +9,14 @@
 - **[PHP Firebase Cloud Messaging](https://github.com/redjanym/php-firebase-cloud-messaging)** by [Redjan Ymeraj](https://github.com/redjanym)<br>
   PHP API for Firebase Cloud Messaging from Google.
   
+## android
+- **[secure-storage-android](https://github.com/adorsys/secure-storage-android)** by [Drilon Reçica](https://github.com/drilonrecica)<br>
+  Library for Storing Credentials Securely on Android Devices.
+
+- **[sms-parser-android](https://github.com/adorsys/sms-parser-android)** by [Drilon Reçica](https://github.com/drilonrecica)<br>
+  Library for Receiving and Parsing SMS Messages on Android Devices.
+  
+  ##
 - The place for your next great project!
   
 ## But why?
