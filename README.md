@@ -9,6 +9,11 @@
 - **[sms-parser-android](https://github.com/adorsys/sms-parser-android)** by [Drilon Reçica](https://github.com/drilonrecica)<br>
   Library for Receiving and Parsing SMS Messages on Android Devices.
 
+## CSS
+
+- **[css.gg](https://github.com/astrit/css.gg)** by [Astrit Malsija](https://github.com/astrit)<br>
+  700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
+
 ## PHP
 - **[FCMBundle](https://github.com/redjanym/FCMBundle)** by [Redjan Ymeraj](https://github.com/redjanym)<br>
   A Bundle for Symfony projects to send notifications in mobile devices through Firebase Cloud Messaging API.
