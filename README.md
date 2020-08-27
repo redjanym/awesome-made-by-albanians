@@ -21,13 +21,21 @@
 - **[PHP Firebase Cloud Messaging](https://github.com/redjanym/php-firebase-cloud-messaging)** by [Redjan Ymeraj](https://github.com/redjanym)<br>
   PHP API for Firebase Cloud Messaging from Google.
 
-## Vue.js
+- **[WordPressify](https://github.com/luangjokaj/wordpressify)** by [Luan Gjokaj](https://github.com/luangjokaj)<br>
+  A build system designed to automate your WordPress development workflow.
+
+## Javascript
+
+- **[GoPablo](https://github.com/luangjokaj/gopablo)** by [Luan Gjokaj](https://github.com/luangjokaj/gopablo)<br>
+Static site generator.
+
+## Javascript - Vue.js
 
 - **[vue-cli-plugin-gh-pages-auto-deploy](https://github.com/Rolanddoda/vue-cli-plugin-gh-pages-auto-deploy)** by [Roland Doda](https://github.com/Rolanddoda)<br>
   This plugin automates Github Pages deployment by using Github Actions.
 
 - **[quasar-ext-gh-pages-auto-deploy](https://github.com/Rolanddoda/quasar-ext-gh-pages-auto-deploy)** by [Roland Doda](https://github.com/Rolanddoda)<br>
-  This extension makes deployment to github pages really easy. After you have added it in your project, everything is ready for you without doing anything else. Every time you     push on master branch a deployment begins using github actions.
+  This extension makes deployment to github pages really easy. After you have added it in your project, everything is ready for you without doing anything else.  Every time you push on master branch a deployment begins using github actions.
 
 ## .NET
 - **[Albanian Early Bound](https://github.com/albanian-xrm/early-bound)** by [Betim Beja](https://github.com/betimbeja)<br>
