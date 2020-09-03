@@ -29,6 +29,11 @@
 - **[GoPablo](https://github.com/luangjokaj/gopablo)** by [Luan Gjokaj](https://github.com/luangjokaj/gopablo)<br>
 Static site generator.
 
+## Javascript - React.js
+
+- **[react-top-loading-bar](https://github.com/klendi/react-top-loading-bar)** by [Klendi Goci](https://github.com/klendi)<br>
+A very simple, highly customisable youtube-like react loader component.
+
 ## Javascript - Vue.js
 
 - **[vue-cli-plugin-gh-pages-auto-deploy](https://github.com/Rolanddoda/vue-cli-plugin-gh-pages-auto-deploy)** by [Roland Doda](https://github.com/Rolanddoda)<br>
