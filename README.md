@@ -13,6 +13,11 @@
 
 - **[css.gg](https://github.com/astrit/css.gg)** by [Astrit Malsija](https://github.com/astrit)<br>
   700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
+  
+## Discord
+
+- **[Innovate Albania](https://discord.gg/FsRGU8dEHY)** by [Memet Rusidovski](https://github.com/memetrusidovski)<br>
+  A Discord server focused on business, programming, science, etc. for Albanians to share ideas and skills
 
 ## PHP
 - **[FCMBundle](https://github.com/redjanym/FCMBundle)** by [Redjan Ymeraj](https://github.com/redjanym)<br>
