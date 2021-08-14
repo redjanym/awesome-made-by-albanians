@@ -29,6 +29,9 @@
 - **[GoPablo](https://github.com/luangjokaj/gopablo)** by [Luan Gjokaj](https://github.com/luangjokaj/gopablo)<br>
 Static site generator.
 
+- **[htmlson.js](https://github.com/adalenv/htmlson.js)** by [Adalen Vladi](https://github.com/adalenv/htmlson.js)<br>
+Convert JSON array of objects into to HTML table!
+
 ## Javascript - React.js
 
 - **[react-top-loading-bar](https://github.com/klendi/react-top-loading-bar)** by [Klendi Goci](https://github.com/klendi)<br>
